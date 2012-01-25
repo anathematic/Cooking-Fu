@@ -31,7 +31,7 @@ Basil chicken pasta stuff, super simple (jar sauce ftw)
 ## Estimated cooking time: about 15 minutes
 
 ## End result
-![in the pan](./pesto_pasta/Photo 25-01-12 6 57 02 PM.jpg)
+![in the pan](https://github.com/anathematic/Cooking-Fu/blob/master/easy/pesto_pasta/Photo%2025-01-12%206%2057%2002%20PM.jpg?raw=true)
 
 ### Other things
-![just a reminder of the jar I bought](./pesto_pasta/Photo 25-01-12 6 58 38 PM.jpg)
+![just a reminder of the jar I bought](https://github.com/anathematic/Cooking-Fu/blob/master/easy/pesto_pasta/Photo%2025-01-12%206%2058%2038%20PM.jpg?raw=true)

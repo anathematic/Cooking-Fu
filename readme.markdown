@@ -1,9 +1,9 @@
 # Cooking Fu: recipes and such.
 
-```Feature: How do I make that meal I want to eat
-  In order to fill remember how it turned out last time
-  As a developer with poor memory
-  I want to have a simple way to track the stuff I make*```
+    Feature: How do I make that meal I want to eat
+    In order to fill remember how it turned out last time
+    As a developer with poor memory
+    I want to have a simple way to track the stuff I make*
 
 ### *oh and if other people contributed ideas as well, that'd be awesome
 
